@@ -29,7 +29,7 @@ export async function GET(request: NextRequest) {
         
 
         return NextResponse.json(
-            {status: "success", message: "Read data successfully", data: result},
+            {status: "success", message: "Transaction completed successfully", data: result},
             {status: 200}
         )
     } catch (error) {
