@@ -1,6 +1,6 @@
 ## NextJS API---> Transactions & Rollback
 
-### heading...
+### Prisma Transactions & Rollback
 ![](https://imgur.com/ex0sviN.png)
 
 ```bash
